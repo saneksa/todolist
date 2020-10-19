@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES6",
+    "moduleResolution": "Node",
+    "module": "ESNext",
+    "importsNotUsedAsValues": "error",
+    "jsx": "react",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "importHelpers": true,
+    "skipLibCheck": true
+  }
+}

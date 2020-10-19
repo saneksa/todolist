@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.autoSave": "onWindowChange",
+    "editor.formatOnSave": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.rulers": [90],
+    "scm.alwaysShowRepositories": true,
+    "editor.codeActionsOnSave": { "source.organizeImports": true },
+    "files.watcherExclude": {
+      "/**/.git/**": true,
+      "/**/node_modules/**": true
+    }
+  }
+}
